@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\S2-Demo-Modele",
+    "\\S2-Demo-Modele\\Controllers",
+    "\\S2-Demo-Modele\\Models",
+    "\\S2-Demo-Modele\\Views",
+    "\\S2-Demo-Modele\\Views\\Home"
   ],
-  "SelectedNode": "\\C:\\Users\\84613.RWIN\\Source\\Repos\\vivgxojo\\S2-Demo-Modele",
+  "SelectedNode": "\\S2-Demo-Modele\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
